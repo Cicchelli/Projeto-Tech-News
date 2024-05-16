@@ -1,6 +1,7 @@
 from tech_news.database import db
 from datetime import datetime
 
+
 # Requisito 7
 def search_by_title(title):
     # Use list comprehension for brevity
